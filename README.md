@@ -3,3 +3,6 @@ It's a repo where I will be sharing all my learning of web development in form o
 
 - Day - 01 :
    - I learnt the basics of HTML code abbrevations and tags I have created the HTML files in such a way that you can understand the concepts just by reading file name and the code written it ! 
+- Day - 02 :
+   - I became bit lazy so I learnt only about anchoring tags but in detail tomorrow i am reading about image tags but i will learn more. 
+   
